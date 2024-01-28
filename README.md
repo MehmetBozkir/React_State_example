@@ -1,5 +1,5 @@
 # React_State_example
-
+State is local to a component instance on the screen. In other words, if you render the same component twice, each copy will have completely isolated state! Changing one of them will not affect the other.
 
 <p align="center"> 
 
@@ -29,7 +29,7 @@ $ npm install
 $ npm start
 ```
 ## :link: Demo
-  - <a target="_blank" href="https://react-test-game.netlify.app/"> Click Here </a> 
+  - <a target="_blank" href="https://react-state-example.netlify.app/"> Click Here </a> 
 
 <br> 
   
