@@ -6,7 +6,7 @@ State is local to a component instance on the screen. In other words, if you ren
 <br> 
   
   :wrench: Features 
-  -------------------
+  --------------------
 
   A working model that combines Reactjs, css and html.
   
